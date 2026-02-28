@@ -31,6 +31,7 @@ This is a simple Library Management System implemented in Python using Tkinter a
 1. **Clone the repository:**
 
    ```bash
+   https://github.com/KuretiNagaMoulika/Library_Management_System
    
 2. Prerequisites:
 - Ensure Python is installed.
